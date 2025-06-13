@@ -24,3 +24,5 @@ This Jupyter Notebook demonstrates the implementation of classical logic gates (
 ## 🚀 Getting Started
 
 Clone the repo or open the notebook directly in Jupyter:
+```bash
+git clone https://github.com/charu171103/classical-logic-gates-qml.git
